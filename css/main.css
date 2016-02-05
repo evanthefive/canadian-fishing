@@ -36,9 +36,11 @@ body {
     text-align: center;
 }
 .bob {
-    padding-bottom: 116px;
+  position: absolute;
 }
 .leaf {
-    padding-bottom: 162px;
-    padding-left: 2%;
+  position: absolute;
+}
+.walleye {
+  padding-left: 2rem;
 }
