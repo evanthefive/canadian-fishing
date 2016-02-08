@@ -32,15 +32,14 @@ body {
   text-align: center;
 }
 .toprow {
-    padding: 2%;
     text-align: center;
 }
+.topspots {
+
+}
 .bob {
-  position: absolute;
 }
 .leaf {
-  position: absolute;
 }
 .walleye {
-  padding-left: 2rem;
 }
