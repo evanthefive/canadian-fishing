@@ -49,13 +49,23 @@ body {
 .topspots {
 }
 .bob {
-  margin-top: 4%;
+  margin-top: 5%;
 }
 .leaf {
   margin-top: 8%;
+  margin-bottom: 5%;
 }
 .walleye {
 }
 .twomil {
   margin-right: 5%;
+  margin-bottom: 5%;
+}
+
+.mvf {
+  margin-bottom: 5%;
+}
+
+.oneoften {
+  margin-bottom: 5%;
 }
